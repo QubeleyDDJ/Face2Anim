@@ -37,7 +37,7 @@ jobs:
 
       - name: Read version from package.json
         id: version
-        uses: zoexx/github-action-json-file-properties@v1
+        uses: zoexx/github-action-json-file-properties@1.0.6
         with:
           file_path: ${{ env.PACKAGE_PATH }}/package.json
           prop_path: version
