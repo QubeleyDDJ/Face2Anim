@@ -9,5 +9,11 @@
     "name": "QubeleyDDJ",
     "email": "qubeley.ddj@gmail.com",
     "url": "https://qbshop.booth.pm/"
-  }
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
 }
