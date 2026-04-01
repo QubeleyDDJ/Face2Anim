@@ -1,11 +1,13 @@
 {
   "name": "com.qubeleyddj.face2anim",
-  "version": "1.0.0",
   "displayName": "Face2Anim",
-  "description": "Unity Editor 拡張。SkinnedMeshRenderer の現在の BlendShape（シェイプキー）状態を、1 フレームの AnimationClip（.anim）として書き出します。",
+  "version": "1.0.0",
+  "description": "Unity Editor 拡張。SkinnedMeshRenderer の現在の BlendShape 状態を、1フレームの AnimationClip (.anim) として書き出します。",
   "unity": "2022.3",
+  "url": "https://github.com/QubeleyDDJ/Face2Anim/releases/download/1.0.0/com.qubeleyddj.face2anim-1.0.0.zip",
   "author": {
-    "name": "QubeledyDDJ",
+    "name": "QubeleyDDJ",
+    "email": "qubeley.ddj@gmail.com",
     "url": "https://qbshop.booth.pm/"
   }
 }
